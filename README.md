@@ -1,4 +1,7 @@
 # HP-Pavilion-15-cc112tu-Hackintosh
+![](https://raw.githubusercontent.com/thedeadfish59/HP-Pavilion-15-cc112tu-Hackintosh/master/1.png)
+
+![](https://raw.githubusercontent.com/thedeadfish59/HP-Pavilion-15-cc112tu-Hackintosh/master/2.png)
 
 ## System Spec:
 
