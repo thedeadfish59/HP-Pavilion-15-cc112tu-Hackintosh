@@ -5,7 +5,7 @@
 
 ## System Spec:
 
-    Processor: Intel® Core™ i5-8250U (1.6 GHz base frequency, up to 3.4 GHz with Intel® Turbo Boost Technology, 6 MB cache, 4 cores)
+    Processor: Intel® Core™ i5-8250U
     Memory: 12 GB DDR4-2400 SDRAM
     GPU: Intel® UHD Graphics 620
 
