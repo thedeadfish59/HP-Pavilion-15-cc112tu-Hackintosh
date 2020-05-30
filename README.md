@@ -23,3 +23,10 @@
 
     WiFi and Bluetooth (Card should be replaced)
     Webcam
+## Instructions:
+
+    Follow instructions to make bootable usb, to setup from here
+    Then use attached Clover folder to paste in your EFI partition, since its patched correctly and have necessary kexts
+    Everything should work like the working list
+
+### I will update this post when I manage to fix other things, thanks :)
